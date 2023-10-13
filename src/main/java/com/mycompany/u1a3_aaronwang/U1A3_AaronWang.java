@@ -14,7 +14,7 @@ public class U1A3_AaronWang extends javax.swing.JFrame {
     
     int[] intArray = new int[20];
     int arrayCapacity = 0;
-    
+    //this is a comment
     /**
      * Creates new form U1A3_AaronWang
      */
